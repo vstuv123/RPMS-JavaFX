@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib" />
+      <root url="jar://$PROJECT_DIR$/../../commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../httpclient-4.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../httpcore-4.4.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-annotations-2.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-core-2.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-databind-2.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-datatype-jsr310-2.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jaxb-core-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jaxb-impl-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../slf4j-simple-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../twilio-8.31.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jbcrypt-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../itextpdf-5.5.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jasperreports-6.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../openjfx-17.0.2_windows-x64_bin-sdk/javafx-sdk-17.0.2/lib" recursive="false" />
+  </library>
+</component>
